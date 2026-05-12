@@ -31,7 +31,7 @@ The model synthesizes seven critical variables to generate a prediction:
 ## 🛠️ Installation & Usage
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/SmartHarvest.git](https://github.com/YOUR_USERNAME/SmartHarvest.git)
+git clone (https://github.com/clarkyyyyyyy1029/Smart-Harvest.git)
 
 # Install dependencies
 pip install -r requirements.txt
