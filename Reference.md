@@ -17,7 +17,7 @@ Unlike standard classifiers, SmartHarvest utilizes a **Hybrid Neural Pipeline** 
 4. **Sequential Memory (NB12):** LSTM units to process the relationship between fluctuating temperature and humidity signatures.
 
 ## 📊 Evaluation Rigor
-To ensure the engine is production-ready, we implemented a rigorous testing framework:
+To ensure the engine is production-ready, I implemented a rigorous testing framework:
 * **Baseline Benchmark:** Established a Logistic Regression model to quantify the "Neural Lift" provided by the hybrid architecture.
 * **Performance Metrics:** Prioritized **Weighted F1-Scores** to manage the **Bias-Variance Trade-off (NB 4A)** across all 22 crop classes.
 * **Diagnostic Visualization:** Integrated Training Convergence plots and Confusion Matrix Heatmaps to verify zero "cross-talk" between similar crop signatures.
