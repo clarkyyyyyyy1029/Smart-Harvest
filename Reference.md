@@ -1,6 +1,6 @@
 # 🌿 SmartHarvest: A Hybrid Neural Engine for Precision Agriculture
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-emerald)](https://77112110eb0b99ab35.gradio.live)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-emerald)](https://ab5ef0e396e44cdf31.gradio.live)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Framework: PyTorch](https://img.shields.io/badge/framework-PyTorch-orange.svg)](https://pytorch.org/)
 
