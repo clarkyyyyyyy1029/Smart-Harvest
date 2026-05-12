@@ -28,13 +28,3 @@ The model synthesizes seven critical variables to generate a prediction:
 - **Climate:** Temperature, Humidity, Rainfall
 - **Soil Integrity:** pH Balance
 
-## 🛠️ Installation & Usage
-```bash
-# Clone the repository
-git clone (https://github.com/clarkyyyyyyy1029/Smart-Harvest.git)
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch the Dashboard
-python app.py
